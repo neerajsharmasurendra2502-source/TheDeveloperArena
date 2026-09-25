@@ -1,0 +1,31 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test Case 1
+Student Name: Priya
+Marks: 95
+Expected Grade: A
+Expected Message: Excellent! Keep it up!
+
+Test Case 2
+Student Name: Rahul
+Marks: 85
+Expected Grade: B
+Expected Message: Very Good! Keep it up!
+
+Test Case 3
+Student Name: Aman
+Marks: 75
+Expected Grade: C
+Expected Message: Good job! Keep improving!
+
+Test Case 4
+Student Name: Neeraj
+Marks: 65
+Expected Grade: D
+Expected Message: Good effort! You can do better!
+
+Test Case 5
+Student Name: Ravi
+Marks: 45
+Expected Grade: F
+Expected Message: Don't give up! Keep practicing!
