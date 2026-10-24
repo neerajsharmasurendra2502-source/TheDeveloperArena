@@ -1,0 +1,19 @@
+HYPOTHESIS TEST RESULTS
+=======================
+
+Test 1 - East vs West sales
+East mean: 132612.58
+West mean: 81689.31
+Statistic: 2.0623
+P-value: 0.045479
+Conclusion: Significant difference
+
+Test 2 - ANOVA by region
+F-statistic: 2.1644
+P-value: 0.097237
+Conclusion: No statistically significant difference detected
+
+Test 3 - ANOVA by product
+F-statistic: 2.0508
+P-value: 0.093428
+Conclusion: No statistically significant difference detected
